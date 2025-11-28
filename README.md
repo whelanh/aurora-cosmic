@@ -1,4 +1,4 @@
-This image is to illustrate adding the Cosmic Desktop as a login option for Aurora.  The only 2 changes from the Universal Blue Template are the change to the base image in [Containerfile](https://github.com/whelanh/aurora-cosmic/blob/main/Containerfile) and the additon of the ryanabex/cosmic-epoch COPR repo and installation of the cosmic-desktop in the [build file](https://github.com/whelanh/aurora-cosmic/blob/main/build_files/build.sh).  **Note: I've disabled the automatic daily build in the .github directory.**
+This image is to illustrate adding the Cosmic Desktop as a login option for Aurora.  The only 2 changes from the Universal Blue Template are the change to the base image in [Containerfile](https://github.com/whelanh/aurora-cosmic/blob/main/Containerfile) and the additon of the ryanabex/cosmic-epoch COPR repo and installation of the cosmic-desktop in the [build file](https://github.com/whelanh/aurora-cosmic/blob/main/build_files/build.sh).  **Note: I've disabled the [automatic daily build](https://github.com/whelanh/aurora-cosmic/blob/main/.github/workflows/build.yml) in the .github directory.**
 
 
 # image-template
